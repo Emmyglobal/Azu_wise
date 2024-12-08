@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "homepage": "https://Emmyglobal.github.io/Azu_wise"
+    "homepage": "https://Emmyglobal.github.io/Azu_wise",
     "preview": "vite preview"
   },
   "dependencies": {
