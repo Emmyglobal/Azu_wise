@@ -1,0 +1,13 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    color: #4CAF50;
+}
+.cart ul li{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
